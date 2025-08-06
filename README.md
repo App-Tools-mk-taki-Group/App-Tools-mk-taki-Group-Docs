@@ -24,4 +24,9 @@ https://github.com/App-Tools-mk-taki-Group/mikan-Tools
 
 AMKTに入りたい人は、メールでお名前などお伝えいただけると幸いです
 
+メール
+```
+mikanat.mk.taki@gmail.com
+```
+
 ぜひ入ってください
